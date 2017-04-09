@@ -1,0 +1,1 @@
+The project can be run by either `npm start` or `npm run dev`
